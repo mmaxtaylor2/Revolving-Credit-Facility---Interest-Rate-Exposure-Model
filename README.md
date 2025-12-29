@@ -2,6 +2,9 @@
 
 A Streamlit-based credit modeling tool that simulates revolver mechanics, interest costs, hedging impact, and covenant sensitivity under changing interest rate environments. The model reflects how corporate treasury, FP&A, and leveraged credit teams evaluate liquidity, borrowing costs, and rate exposure during capital planning.
 
+## Live App
+
+
 ## Project Purpose
 
 This project models the full mechanics of a corporate revolving credit facility, including:
