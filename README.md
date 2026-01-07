@@ -2,6 +2,11 @@
 
 A Streamlit-based credit modeling tool that simulates revolver mechanics, interest costs, hedging impact, and covenant sensitivity under changing interest rate environments. The model reflects how corporate treasury, FP&A, and leveraged credit teams evaluate liquidity, borrowing costs, and rate exposure during capital planning.
 
+## Problem Context 
+
+As interest rates have remained structurally higher, revolving credit facilities have shifted from being a low-cost liquidity backstop to a meaningful driver of interest expense, covenant risk, and capital allocation decisions. Many simplified credit models fail to capture how floating-rate exposure, unused commitment fees, hedging strategies, and covenant thresholds interact dynamically as rates change. This project was built to model those interactions explicitly and evaluate how revolver economics and downside risk evolve under realistic interest-rate shock scenarios.
+
+
 ## Live App
 https://revolving-credit-facility---interest-rate-exposure-model-vjwou.streamlit.app
 
